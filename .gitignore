@@ -1,0 +1,16 @@
+# Environment variables - API keys yahan hain, kabhi push mat karo
+.env
+
+# Virtual environment
+venv/
+
+# Output files - generated data
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac
+.DS_Store
